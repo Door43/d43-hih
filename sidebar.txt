@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hih:home|Door43 (hih)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hih|d43-hih repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hih/archive/master.zip|d43-hih.zip]]
+
+**Recent Changes**
+{{changes>ns = hih}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hih|Ethnologue data]]
+
